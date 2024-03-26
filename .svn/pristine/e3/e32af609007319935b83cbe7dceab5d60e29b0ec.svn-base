@@ -1,0 +1,11 @@
+ch.pschatzmann.starschema.engine
+ch.pschatzmann.starschema.engine.dimension
+ch.pschatzmann.starschema.engine.filter
+ch.pschatzmann.starschema.engine.io
+ch.pschatzmann.starschema.engine.io.collections
+ch.pschatzmann.starschema.errors
+ch.pschatzmann.starschema.templates
+ch.pschatzmann.starschema.views
+ch.pschatzmann.starschema.views.calculation
+ch.pschatzmann.starschema.views.output
+ch.pschatzmann.test
